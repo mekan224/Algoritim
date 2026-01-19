@@ -10,3 +10,4 @@ prod_result = a * b
 print("Сумма:", sum_result)
 print("Разность:", diff_result)
 print("Произведение:", prod_result)
+print("Произведение:", prod_result)
